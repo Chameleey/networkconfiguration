@@ -51,7 +51,7 @@ Ubuntu · Kali Linux · VirtualBox · BIND9 · ISC DHCP · iptables · Apache2 �
 ---
 
 ## 📄 Project Report
-👉 [View Full Report](./linux-server-setup-report.pdf)
+👉 [View Full Report](https://raw.githubusercontent.com/Chameleey/networkconfiguration/main/network-configuration-report.pdf)
 
 ---
 
